@@ -1,0 +1,7 @@
+name: customitems
+version: '${version}'
+main: me.youngermax.customitems.CustomItems
+api-version: 1.19
+author: YoungerMax
+description: Adds _pnda's custom items to the game. Programmed by YoungerMax
+website: https://pocolifo.com
